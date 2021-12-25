@@ -1,5 +1,5 @@
 body {
-    background-color: #d4c5c5;
+    background-color: #efefefe5;
     font-family: sans-serif;
 }
 
@@ -10,7 +10,9 @@ body {
 
 .main_first {
     width: 30%;
-    background-color: #c9abab;
+    background-color: #e5e5e5d5;
+    height: 100%;
+    align-self: center;
 }
 
 p {
@@ -29,7 +31,10 @@ h1 {
 /* } */
 
 img {
-    width: 100%;
+    width: 40%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1,
